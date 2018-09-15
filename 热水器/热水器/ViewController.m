@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor grayColor];
+    
+    //添加注释
 }
 
 
